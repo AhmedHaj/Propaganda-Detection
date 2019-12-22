@@ -6,6 +6,10 @@ Requirements:
 
 Python 3.6+
 
+SKLearn
+
+Keras
+
 Jupyter Notebook
 
 NLTK natural language processing toolkit
